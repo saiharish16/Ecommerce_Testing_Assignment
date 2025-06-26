@@ -1,0 +1,10 @@
+FirstName = "John"
+LastName = "Doe"
+Email = "john.doe@example.com"
+Address = "13th Street. 47 W 13th St, New York, USA"
+City = "Washington"
+ZIP Code = "NY 10011"
+Login name = "JohnDoe"
+Password = "Password123"
+Password Confirm = "Password123"
+
